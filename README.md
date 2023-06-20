@@ -5,7 +5,7 @@ A Blogs website made using Nodejs, expressjs and ejs without any connection with
 This website was created to practice my skills on the JS frameworks that I have been working on such as Nodejs and used libraries like packages like lodash.
 The website doesn't have any connection with a database such as MongoDB or MySQL and therefore cannot be used to store all the blogs that we are adding in the website.
 
-##Install
+## Install
 If you are working with these frameworks for first time and don;t know how to start it in your local machine, then:
 1. Fork and then clone the repo in your machine or download the zip file.
 2. Open your terminal and reach the destination folder by using cd.
